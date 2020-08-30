@@ -1,0 +1,3 @@
+Create a Lambda Function. As a runtime, select `Custom Runtime`
+
+image:create-function.png[]

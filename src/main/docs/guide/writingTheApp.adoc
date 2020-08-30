@@ -1,0 +1,10 @@
+Create a Micronaut application with the `aws-lambda` and `graalvm` features using the CLI:
+
+[source,bash]
+----
+% mn create-app example.micronaut.complete --lang=kotlin --features aws-lambda,graalvm
+----
+
+or use https://launch.micronaut.io[Micronaut Launch]
+
+image::launch.png[]
